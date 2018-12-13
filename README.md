@@ -1,2 +1,0 @@
-# pharos
-Created with CodeSandbox
